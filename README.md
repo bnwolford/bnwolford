@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Brooke Wolford.
 
-I'm a Statistical Geneticists using big data to better treat and prevent heart disease. Based on Trondheim, Norway and the Norwegian University of Science and Technology, I also supervise students, contribute to data science education, and pursue science communication efforts.
+I'm a Statistical Geneticist using big data from global biobamks to better treat and prevent heart disease. I'm based in Trondheim, Norway at the Norwegian University of Science and Technology. I also supervise students, contribute to data science education, and pursue science communication efforts.
 
 #### Personal website: <https://brookewolford.com>
 
