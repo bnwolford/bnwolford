@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Brooke Wolford.
 
-<!--
-**bnwolford/bnwolford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistical Geneticists using big data to better treat and prevent heart disease. Based on Trondheim, Norway and the Norwegian University of Science and Technology, I also supervise students, contribute to data science education, and pursue science communication efforts.
 
-Here are some ideas to get you started:
+#### Personal website: <https://brookewolford.com>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### GitHub Metrics
+
+[![metrics](github-metrics.svg)](https://metrics.lecoq.io/insights/bnwolford)
+
+[![languages](metrics.plugin.languages.svg)](https://metrics.lecoq.io/insights/bnwolford)
+
+[![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/bnwolford)
+
+
