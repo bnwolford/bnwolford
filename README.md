@@ -10,6 +10,4 @@ I'm a Statistical Geneticist using big data from global biobamks to better treat
 
 [![languages](metrics.plugin.languages.svg)](https://metrics.lecoq.io/insights/bnwolford)
 
-[![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/bnwolford)
-
 
