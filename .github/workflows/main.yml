@@ -4,7 +4,7 @@ on:
   schedule: [{cron: "0 0 * * 1"}] #weekly updates
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-    push: # when workflow file changes
+    push: {branches: ["master", "main"]} # when workflow file changes
     paths:
       - .github/workflows/main.yml
 jobs:
