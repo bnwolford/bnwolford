@@ -15,7 +15,8 @@ jobs:
       contents: write
     steps:
       - name: Base
-        uses: lowlighter/metrics@latest
+        #uses: lowlighter/metrics@latest
+        uses: oddstr13/github-profile-metrics@b79aff3dcef1c90b518d92eb029d2c8942c3337d
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
